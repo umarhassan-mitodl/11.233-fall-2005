@@ -6,6 +6,8 @@ description: The resource provides information about the diary / journal-type re
 file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/264bd0ce7b684a696f4c7113c3fe526d_shortpaper.pdf
 file_size: 75760
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

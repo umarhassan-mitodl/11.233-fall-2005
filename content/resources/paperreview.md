@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/96bade816365f8f8b0fd0ec438eb6683_paperreview.pdf
 file_size: 12302
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

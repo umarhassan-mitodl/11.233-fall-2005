@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section provides information about prerequisites, description,
   requirements and grading criterion for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

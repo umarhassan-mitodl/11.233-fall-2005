@@ -2,6 +2,8 @@
 content_type: page
 description: The calendar section provides information about the topics covered in
   each week during the course along with the key dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -247,7 +249,7 @@ Sessions with Prof. Richard Locke, Political Science, MIT, and Professor Richard
 
 Uncertainty, Bounded Rationality, and "Satisficing"
 
-Session on MIT authorization for research involving interviewing, with the {{% resource_link "d30748ef-a8a5-424f-bf1a-f1f94f6dd200" "Committee on the Use of Humans as Experimental Subjects" %}}.
+Session on MIT authorization for research involving interviewing, with the [Committee on the Use of Humans as Experimental Subjects](http://web.mit.edu/committees/couhes/).
 
 
 {{< tdclose >}}
