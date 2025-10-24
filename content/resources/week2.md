@@ -6,8 +6,6 @@ description: The resource provides information about the domestic and internatio
 file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/7bd5ebfb9252586e8d770011cc2a96cb_week2.pdf
 file_size: 81408
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
