@@ -247,7 +247,7 @@ Sessions with Prof. Richard Locke, Political Science, MIT, and Professor Richard
 
 Uncertainty, Bounded Rationality, and "Satisficing"
 
-Session on MIT authorization for research involving interviewing, with the [Committee on the Use of Humans as Experimental Subjects](http://web.mit.edu/committees/couhes/).
+Session on MIT authorization for research involving interviewing, with the {{% resource_link "e83cc4cb-db39-4dd3-a9d1-bd7dc21276da" "Committee on the Use of Humans as Experimental Subjects" %}}.
 
 
 {{< tdclose >}}
