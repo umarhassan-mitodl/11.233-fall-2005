@@ -30,7 +30,7 @@ READINGS
 Introduction, Student Research Interests, and Cross-cutting Methodological Issues
 {{< tdclose >}}{{< tdopen >}}
 
-Przeworski, Adam, and Frank Salamon. "[On the Art of Writing Proposals, Some Candid Suggestions for Applicants to Science Research Council Competitions](https://s3.amazonaws.com/ssrc-cdn1/crmuploads/new_publication_3/the-art-of-writing-proposals.pdf)." 1988.
+Przeworski, Adam, and Frank Salamon. "{{% resource_link "83740251-e876-482a-b3b1-ba2147ed3d15" "On the Art of Writing Proposals, Some Candid Suggestions for Applicants to Science Research Council Competitions" %}}." 1988.
 
 Munck, Gerardo L., and Richard Snyder. "The Human Dimension of Comparative Research." Chapter 2 in *Passion, Craft and Method in Comparative Politics* . Baltimore, MD: Johns Hopkins University Press, 2006. (Forthcoming.)
 
@@ -170,7 +170,7 @@ Snyder, Richard. "Scaling Down: The Subnational Comparative Method." *Studies in
 
 Uncertainty, Bounded Rationality, and "Satisficing"
 
-Session on MIT authorization for research involving interviewing, with the [Committee on the Use of Humans as Experimental Subjects](http://web.mit.edu/committees/couhes/).
+Session on MIT authorization for research involving interviewing, with the {{% resource_link "e83cc4cb-db39-4dd3-a9d1-bd7dc21276da" "Committee on the Use of Humans as Experimental Subjects" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
 
